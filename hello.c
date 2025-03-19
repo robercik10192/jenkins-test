@@ -3,5 +3,5 @@
 
 int main(){
 printf("Hello World\n");
-pritnf("and beyond!\n");
+printf("and beyond!\n");
 }
